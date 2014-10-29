@@ -4,7 +4,11 @@ Instructions to get settlers up and running
 
 * install redis if needed - brew install redis
 
+* gem install bundler
+
 * install mysql if needed - google brew install mysql 
+
+* bundle install
 
 * cp config/database.yml.example config/database.yml
 
